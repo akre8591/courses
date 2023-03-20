@@ -1,6 +1,4 @@
 {
-  "name": "Course List",
-  "description": "This is a fake information response",
   "courses": [
     {
       "id": "1563",
